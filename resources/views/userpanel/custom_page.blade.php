@@ -1,0 +1,1 @@
+<x-userpanel.master :page="$page" :user_id="$user_id" />
